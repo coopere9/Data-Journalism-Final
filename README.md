@@ -1,5 +1,6 @@
 # Data-Journalism-Final
 Com 2030 Final
+
 (Time.com) http://time.com/money/4299588/solar-panels-cost/
 -          (Products used to make a Solar Panel) https://www.mineralseducationcoalition.org/sites/default/files/uploads/mec_fact_sheet_solar_panel_0.pdf
 -          (World Socialist) https://www.wsws.org/en/articles/2016/03/14/chin-m14.html
