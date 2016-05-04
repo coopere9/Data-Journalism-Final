@@ -9,9 +9,7 @@ http://bauxite.world-aluminium.org/uploads/pics/weipa_bigpic.jpg
 
 http://i1-news.softpedia-static.com/images/news2/Selenium-Pollution-and-Mountaintop-Mining-2.jpg 
 
-
 http://blogs.r.ftdata.co.uk/beyond-brics/files/2012/05/phosphate-mine.jpg 
-
 
 http://assets.bwbx.io/images/i2dxVMtzRsQg/v1/-1x-1.jpg 
 
@@ -20,3 +18,7 @@ http://www.northernminer.com/wp-content/uploads/2014/07/1003153332-1003163510-70
 http://www.mining.com/wp-content/uploads/2014/04/china-to-shut-down-2000-coal-mines-this-year.jpg 
 
 https://upload.wikimedia.org/wikipedia/commons/6/63/Rio_Tinto_Boron_mine_and_plant.jpg 
+
+https://thompsonj.cartodb.com/viz/518cf124-0ccc-11e6-896d-0e674067d321/public_map
+
+https://www.flickr.com/photos/142395851@N05/?
