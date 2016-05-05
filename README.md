@@ -22,3 +22,5 @@ https://upload.wikimedia.org/wikipedia/commons/6/63/Rio_Tinto_Boron_mine_and_pla
 https://thompsonj.cartodb.com/viz/518cf124-0ccc-11e6-896d-0e674067d321/public_map
 
 https://www.flickr.com/photos/142395851@N05/?
+
+http://minerals.usgs.gov/minerals/pubs/commodity/myb/#C
